@@ -1,4 +1,5 @@
 /*
+эта часть для spec
 function anagramCheck(word,part){
 	var anagram_found = true;
 	var partArray = [];
